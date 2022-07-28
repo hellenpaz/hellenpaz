@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 Currently, I'm a MSc student in Mathematics with focus in Statistic and my research is about Cluster Analysis for mixed data. I`m also mentee at [https://www.alforriah.com/](ALFORRIAH).
+- 🔭 Currently, I'm a MSc student in Mathematics with focus in Statistic and my research is about Cluster Analysis for mixed data. I`m also mentee at [https://www.alforriah.com/](ALFORRIAH).
 
-🌱 I`m currently learning about GitHub, SQL and Tree-based methods.
+- 🌱 I`m currently learning about GitHub, SQL and Tree-based methods.
 
-📄 Know about my experiences: [https://www.linkedin.com/in/hellenpaz/](https://www.linkedin.com/in/hellenpaz/).
+- 📄 Know about my experiences: [https://www.linkedin.com/in/hellenpaz/](https://www.linkedin.com/in/hellenpaz/).
 
 <!--
 **hellenpaz/hellenpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
