@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Currently, I'm a MSc student in Mathematics with focus in Statistic and my research is about Cluster Analysis for mixed data. Also, I`m mentee at [ALFORRIAH](https://www.alforriah.com/).
-
 - 🌱 I`m currently learning about GitHub, SQL and Tree-based methods.
 - 📄 Know about my experiences: [https://www.linkedin.com/in/hellenpaz/](https://www.linkedin.com/in/hellenpaz/).
 
